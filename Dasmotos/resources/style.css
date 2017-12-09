@@ -1,0 +1,46 @@
+.dasmoto{
+  font-family:Helvetica;
+  font-size:50px;
+  font-weight:bold;
+  color:khaki;
+  text-align:center;
+  background-image: url(pattern.jpeg); 
+
+}
+.brushes{
+  font-family:Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color:white;
+  background-color: mediumspringgreen;
+  height:50px;
+  margin:15px;
+  margin-left: 0;
+  }
+
+.frames{
+  font-family:Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color:white;
+  background-color: lightcoral;
+  height: 50px;
+  margin:15px;
+  margin-left: 0;
+  }
+
+.paint{
+  font-family:Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color:white;
+  background-color: skyblue;
+  height: 50px;
+  margin:15px;
+  margin-left: 0;
+  }
+  .price{
+    font-family:Helvetica;
+    font-weight:bold;
+    color:blue;
+  }
